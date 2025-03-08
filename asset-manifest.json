@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coffee-Shop-React/static/css/main.9dcf37af.css",
-    "main.js": "/Coffee-Shop-React/static/js/main.9a692895.js",
+    "main.js": "/Coffee-Shop-React/static/js/main.c22f3f8d.js",
     "static/media/Blog_One.jpg": "/Coffee-Shop-React/static/media/Blog_One.2c56f6f7e03aded46e9f.jpg",
     "static/media/Blog_Two.jpg": "/Coffee-Shop-React/static/media/Blog_Two.0d8c6d7151eade8a34bd.jpg",
     "static/media/Blog_four.jpg": "/Coffee-Shop-React/static/media/Blog_four.951717836e59215bb625.jpg",
@@ -44,10 +44,10 @@
     "static/media/Black_Coffee_Lungo.png": "/Coffee-Shop-React/static/media/Black_Coffee_Lungo.e5ce5c88e22a217dc454.png",
     "index.html": "/Coffee-Shop-React/index.html",
     "main.9dcf37af.css.map": "/Coffee-Shop-React/static/css/main.9dcf37af.css.map",
-    "main.9a692895.js.map": "/Coffee-Shop-React/static/js/main.9a692895.js.map"
+    "main.c22f3f8d.js.map": "/Coffee-Shop-React/static/js/main.c22f3f8d.js.map"
   },
   "entrypoints": [
     "static/css/main.9dcf37af.css",
-    "static/js/main.9a692895.js"
+    "static/js/main.c22f3f8d.js"
   ]
 }
