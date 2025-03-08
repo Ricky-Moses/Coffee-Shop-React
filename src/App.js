@@ -23,7 +23,7 @@ const App = () => {
 
   const coffeeBanner = createBrowserRouter(
     createRoutesFromElements(
-      <Route path='/' element={ <NavbarLayout /> }>
+      <Route path='/Coffee-Shop-React/' element={ <NavbarLayout /> }>
           <Route index element={ <Home /> } />
           <Route path='about' element={ <About /> } />
           <Route path='coffee' element={ <CoffeeLayouts /> } >

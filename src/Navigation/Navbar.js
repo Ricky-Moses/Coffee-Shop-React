@@ -42,7 +42,7 @@ const Navbar = () => {
             </div>
             <nav style={{height: navHeight, transition: 'all .5s ease'}}>
                 <ul>
-                    <li><NavLink to={'/'} className={({ isActive }) => (isActive ? "activeLink" : "")}>Home</NavLink></li>
+                    <li><NavLink to={'/Coffee-Shop-React/'} className={({ isActive }) => (isActive ? "activeLink" : "")}>Home</NavLink></li>
                     <li><NavLink to={'about'} className={({ isActive }) => (isActive ? "activeLink" : "")}>About</NavLink></li>
                     <li><NavLink to={'coffee'} className={({ isActive }) => (isActive ? "activeLink" : "")}>Coffee</NavLink></li>
                     <li><NavLink to={'blog'} className={({ isActive }) => (isActive ? "activeLink" : "")}>Blog</NavLink></li>
