@@ -45,7 +45,6 @@ const App = () => {
             <Route path='about' element={ <About /> } />
             <Route path='coffee' element={ <Coffee /> } />
           </Route>
-
       </Route>
 
       

@@ -13,6 +13,7 @@ const Coffee = () => {
     setActiveList(listPage);
     navigateCoffeeItem(listPage)
     setIsHeight('0')
+    console.log(listPage);
   }
 
   const handleHeight = ()=>{

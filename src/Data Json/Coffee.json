@@ -1,0 +1,38 @@
+{
+    "black": [
+        {"image": "/Image-2/Black_Coffee_Americano.png", "imgName": "blackCoffeeAmericano", "title": "Black Coffee", "description": "Espresso + hot water."},
+        {"image": "/Image-2/Black_Coffee_Doppio.png", "imgName": "blackCoffeeDoppio", "title": "Doppio Coffee", "description": "Double shot of espresso."},
+        {"image": "/Image-2/Black_Coffee_Espresso.png", "imgName": "blackCoffeeEspresso", "title": "Espresso Coffee", "description": "Strong, Concentrated Coffee Shot."},
+        {"image": "/Image-2/Black_Coffee_Long_Black.png", "imgName": "blackCoffeeLongBlack", "title": "Long Black Coffee", "description": "Similar to Americano but with a stronger taste."},
+        {"image": "/Image-2/Black_Coffee_Lungo.png", "imgName": "blackCoffeeLungo", "title": "Lungo Coffee", "description": "A longer pulled espresso with more water."},
+        {"image": "/Image-2/Black_Coffee_Ristretto.png", "imgName": "blackCoffeeRistretto", "title": "Ristretto Coffee", "description": "Shorter, more concentrated espresso."}
+    ],
+    "flavour": [
+        {"image": "/Image-2/Sweet_Flavored_Cuban_Coffee.png", "imgName": "sweetFlavoredCubanCoffee", "title": "Cuban Coffee", "description": "Espresso mixed with sugar while brewing."},
+        {"image": "/Image-2/Sweet_Flavored_Irish_Coffee.png", "imgName": "sweetFlavoredIrishCoffee", "title": "Irish Coffee", "description": "Coffee + Irish coffee + sugar + cream."},
+        {"image": "/Image-2/Sweet_Flavored_Mexican_Coffee.png", "imgName": "sweetFlavoredMexicanCoffee", "title": "Mexican Coffee", "description": "Brewed with cinnamon and brown sugar."},
+        {"image": "/Image-2/Sweet_Flavored_Turkist_Coffee.png", "imgName": "sweetFlavoredTurkistCoffee", "title": "Turkish Romano", "description": "Finely ground coffee brewed unfiltered in a pot."},
+        {"image": "/Image-2/Sweet_Flavored_Vietnamse_Coffee.png", "imgName": "sweetFlavoredVietnamseCoffee", "title": "Vietnamese Romano", "description": "Strong coffee + sweet condensed milk."}
+    ],
+    "ice": [
+        {"image": "/Image-2/Iced_Coffee_Aufogato.png", "imgName": "icedCoffeeAufogato", "title": "Affogato", "description": "Espresso poured over vanilla ice cream."},
+        {"image": "/Image-2/Iced_Coffee_Cold_Brew.png", "imgName": "icedCoffeeColdBrew", "title": "Cold Brew", "description": "Coffee steeped in cold water for 12+ hours."},
+        {"image": "/Image-2/Iced_Coffee_Ice_Coffee.png", "imgName": "icedCoffeeIceCoffee", "title": "Iced Coffee", "description": "Regular brewed coffee, chilled & served with ice."},
+        {"image": "/Image-2/Iced_Coffee_Iced_Latte.png", "imgName": "icedCoffeeIcedLatte", "title": "Iced Latte", "description": "Espresso + Cold milk + Ice."},
+        {"image": "/Image-2/Iced_Coffee_Nitro_Coffee.png", "imgName": "icedCoffeeNitroCoffee", "title": "Nitro Coffee", "description": "Cold brew infused with nitrogen for a creamy texture."}
+    ],
+    "milk": [
+        {"image": "/Image-2/Milk_Based_Cafe_Au_Lait.png", "imgName": "milkBasedCafeAuLait", "title": "Café au Lait", "description": "Coffee + equal parts steamed milk."},
+        {"image": "/Image-2/Milk_Based_Cappuccino.png", "imgName": "milkBasedCappuccino", "title": "Cappuccino", "description": "Espresso + steamed milk + milk foam."},
+        {"image": "/Image-2/Milk_Based_Flat_White.png", "imgName": "milkBasedFlatWhite", "title": "Flat White", "description": "Similar to latte, but with microfoam for a smoother texture."},
+        {"image": "/Image-2/Milk_Based_Latte.png", "imgName": "milkBasedLatte", "title": "Latte", "description": "Espresso + more steamed milk, less foam."},
+        {"image": "/Image-2/Milk_Based_Macchiato.png", "imgName": "milkBasedMacchiato", "title": "Macchiato", "description": "Espresso 'Stained' with a little milk."},
+        {"image": "/Image-2/Milk_Based_Mocha.png", "imgName": "milkBasedMocha", "title": "Mocha", "description": "Espresso + chocolate + steamed milk."}
+    ],
+    "special": [
+        {"image": "/Image-2/Specialty_Unique_Bulletproof_Coffee.png", "imgName": "specialtyUniqueBulletproofCoffee", "title": "Bulletproof Coffee", "description": "Coffee blended with butter & MCT oil."},
+        {"image": "/Image-2/Specialty_Unique_Cascara.png", "imgName": "specialtyUniqueCascara", "title": "Cascara", "description": "Made from dried coffee cherry husks."},
+        {"image": "/Image-2/Specialty_Unique_Chicory_Coffee.png", "imgName": "specialtyUniqueChicoryCoffee", "title": "Chicory Coffee", "description": "Coffee mixed with roasted chicory root."},
+        {"image": "/Image-2/Specialty_Unique_Espresso_Romano.png", "imgName": "specialtyUniqueEspressoRomano", "title": "Espresso Romano", "description": "Espresso with a slice of lemon."}
+    ]
+}
